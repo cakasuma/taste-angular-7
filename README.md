@@ -1,6 +1,6 @@
 # TasteIt
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1. The aim for this project is to build simple pages application consist of getting data from json using http client and a little bit of reactive form.
 
 ## Development server
 
